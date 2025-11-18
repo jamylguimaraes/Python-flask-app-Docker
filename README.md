@@ -7,7 +7,7 @@ Aplicação Web Dockenizada, escrita em Python3 / Flask, utiliza Gunicorn como W
 * ~~Criar esteira ci-cd no github~~ - Feito
 * ~~Criar Build (Docker)~~ - Feito
 * ~~Criar Deploy (Azure Web App)~~ - Feito
-* __Provisionar a Infra no Azure com Terraform__
+* ~~Provisionar a Infra no Azure com Terraform~~ - Feito
 
 ## Workflow CI-CD (Github Actions)
 
